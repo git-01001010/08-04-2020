@@ -43,3 +43,11 @@ nav ul li:hover {
   background-color: #fcfcfc;
   color: #000;
 }
+
+header {
+    background-image: url("https://placehold.it/600");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+}
